@@ -1,0 +1,20 @@
+{
+    "Name": "RSA of Sub-Components of Reading Study",
+    "Authors": [
+        "Deanne Tak On Wah",
+        "Marc Joanisse"
+    ],
+    "DatasetType": "raw",
+    "BIDSVersion": "1.4.1",
+    "Acknowledgments": "We would like to acknowledge the generous support from the Natural Sciences and Engineering Research Council and members of the Language Reading and Cognitive Neuroscience laboratory at Western University who have contributed to this project. We also would like to thank the Centre for Functional and Metabolic Mapping that helped us collect the data.",
+    "HowToAcknowledge": "When using this data, please cite the following ....'",
+    "Funding": [
+        "This project was supported by an NSERC Discovery Grant"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007745.v1.0.0",
+    "ReferencesAndLinks": [
+        "TODO",
+        "List of papers or websites"
+    ]
+}

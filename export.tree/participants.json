@@ -1,0 +1,55 @@
+{
+  "participant_id": {
+    "Description": "Participant identifier"
+  },
+  "Gender": {
+    "Description": "Self-identified gender",
+    "Levels": {
+    	"1": "Female",
+    	"2": "Male",
+	"3": "Non-binary"
+    }
+  },
+  "Education": {
+    "Description": "Highest level of education attained",
+    "Levels": {
+    	"1": "High school or equivalent",
+    	"2": "Undergraduate or college",
+    	"3": "Graduate school"
+    }
+  },
+  "Handedness": {
+    "Description": "Left or right handed",
+    "Levels": {
+    	"1": "Left",
+    	"2": "Right"
+    }
+  },
+  "SWE_scaled": {
+    "Description": "Sight word efficiency subtest from Test of Word Reading Efficiency based on adult age range 17 - 24 years (+11 months), but applied to adults older than 25 too"
+  },
+  "PDE_scaled": {
+    "Description": "Phonemic decoding efficiency subtest from Test of Word Reading Efficiency based on adult age range 17 - 24 years (+11 months), but applied to adults older than 25 too"
+  },
+  "TWRE_scaled": {
+    "Description": "Scaled total word reading efficiency index"
+  },
+  "passagecomp_scaled": {
+    "Description": "Passage comprehension scaled subtest of Woodcock Johnson III"
+  },
+  "RAN_letters (stimuli/sec)": {
+    "Description": "Custom rapid automatized naming test for letters calculated as total stimuli named correctly divided by time in seconds"
+  },
+  "RAN_colours (stimuli/sec)": {
+    "Description": "Custom rapid automatized naming test for colours calculated as total stimuli named correctly divided by time in seconds"
+  },
+  "BlockDesign_tscore": {
+    "Description": "Block design standardized score from Wechsler Abbreviated Intelligence Scale II"
+  },
+  "MatrixReasoning_tscore": {
+    "Description": "Matrix reasoning standardized score from Wechsler Abbreviated Intelligence Scale II"
+  },
+  "PRI": {
+    "Description": "Perceptual reasoning index from Wechsler Abbreviated Intelligence Scale II"
+  }
+}
